@@ -1,0 +1,15 @@
+Adventures in OpenCL: Part 1
+http://enja.org
+
+Getting Started: building and running a minimalist kernel
+
+Build:
+make a build directory and build the tutorial:
+mkdir build
+cd build
+cmake ..
+make
+
+execute the example program
+./part1.x
+

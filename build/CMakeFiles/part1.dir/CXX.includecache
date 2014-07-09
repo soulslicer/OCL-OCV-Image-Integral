@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/CUDA/partX/cll.cpp
+stdio.h
+-
+string
+-
+cstdlib
+-
+cstring
+-
+cll.h
+/home/ubuntu/CUDA/partX/cll.h
+util.h
+/home/ubuntu/CUDA/partX/util.h
+
+/home/ubuntu/CUDA/partX/cll.h
+OpenCL/opencl.h
+-
+CL/opencl.h
+-
+
+/home/ubuntu/CUDA/partX/part1.cpp
+stdio.h
+-
+cll.h
+/home/ubuntu/CUDA/partX/cll.h
+util.h
+/home/ubuntu/CUDA/partX/util.h
+
+/home/ubuntu/CUDA/partX/util.h
+

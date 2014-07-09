@@ -1,0 +1,2 @@
+/home/ubuntu/CUDA/partX/build/CMakeFiles/part1.dir
+/home/ubuntu/CUDA/partX/build/CMakeFiles/part1.x.dir
